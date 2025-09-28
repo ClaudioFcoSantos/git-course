@@ -2,6 +2,9 @@
 
 aula de git e github no udemy
 
-mudança do arquivo local e enviando para servidor
+mudança do arquivo local e enviando para servidor 
+teste de conexão;
+
+
 
 
